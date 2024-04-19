@@ -11,22 +11,13 @@ h1 {
   text-transform: uppercase;
 }
 
-#first{
+#first {
   margin-top: 10%;
-  
-}
-div {
   text-align: center;
   width: 50%;
   margin-left: 25%;
 }
 
-img {
-  border: 5px solid white;
-  width: 50%;
-  text-align: left;
-}
-a {
-  border: 5px solid white;
-  width: 75%;
+#second{
+  width: 20%;
 }
